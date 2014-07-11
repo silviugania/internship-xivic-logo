@@ -5,3 +5,6 @@ This repo is another internship project that should teach the interns to:
  - use github issues as a task management tool
  - some modificationb (for demo purposes)
  - another line :D
+
+
+ - Silviu's new line of text
