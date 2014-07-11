@@ -4,3 +4,4 @@ This repo is another internship project that should teach the interns to:
  - forks & pull requests
  - use github issues as a task management tool
  - some modificationb (for demo purposes)
+ - another line :D
